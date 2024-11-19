@@ -3,7 +3,7 @@ Atividade prática criando um sistema de gerenciamento de tarefas estilo Kanban.
 
 Instruções:
 
-Em todos de "resumo" usar "localhost:8080"
+Em todos usar "localhost:8080"
 Exemplo: localhost:8080/auth/register
 
 
